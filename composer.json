@@ -1,0 +1,21 @@
+{
+    "name": "zaidan/testcomposer",
+    "description": "demo composer",
+    "keywords": ["demo composer"],
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "zaidanlaks\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "authors": [
+        {
+            "name": "zaidanlaks",
+            "email": "laksamana.zaidan@mail.sirclo.com"
+        }
+    ],
+    "license": "MIT"
+}
